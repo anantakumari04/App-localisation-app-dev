@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Aplicación MultiLenguaje</string>
+    <string name="change_language">Cambiar Idioma English</string>
+    <string name="welcome_message">Hola LPU</string>
+</resources>
